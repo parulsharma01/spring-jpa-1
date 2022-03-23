@@ -19,3 +19,4 @@ Component Mapping:
 
     Implement and demonstrate Embedded mapping using employee table having following fields: id, firstName, lastName, age, basicSalary, bonusSalary, taxAmount, specialAllowanceSalary.
 ``
+# spring-jpa-1
